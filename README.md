@@ -1,5 +1,5 @@
 ### Hi there! 👋 I'm middle frontend developer from Yekaterinburg.🧑‍💻
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Work+&+Study)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Work+"&"+Study)](https://git.io/typing-svg)
 
 #### 😶‍🌫️ Already using gh about 3.5years, so u can find here my old projects, and some new.  
 
