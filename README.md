@@ -4,4 +4,4 @@
 
 There is some projects with python, TS, JS. Some ReactJS, NextJS, FastApi. 🤖 Last year I was working at corporate gitlab, so there is less commits, then earlier. 🫶🏻
 
-There is my [Telegram](t.me/xmarburx), waiting for your message! 👤
+There is my [Telegram](https://t.me/xmarburx), waiting for your message! 👤
